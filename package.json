@@ -28,8 +28,12 @@
     "pg": "^8.8.0",
     "puppeteer": "^19.0.0",
     "readline-sync": "^1.4.10",
+    "sequelize": "^6.37.7",
     "string": "^3.3.3",
     "sync-mysql": "^3.0.1",
     "word-extractor": "^1.0.4"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.3"
   }
 }

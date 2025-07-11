@@ -3,6 +3,18 @@ const mysql = require('mysql2');
 const config_databases = require('./../../../config/databases.json');
 //-----------Подключаемые модули-----------//
 
+/*
+{
+  "mysql": {
+    "irtran": {
+      "host": "localhost",
+      "user": "irtran_admin",
+      "password": "HI$_3v1ad1sl0ve"
+    }
+  }
+}
+*/
+
 /**
  * Класс для работы с базой данных Mysql
  */
